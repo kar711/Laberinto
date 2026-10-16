@@ -1,0 +1,7 @@
+id,tipo,titulo,descripcion,imagen,texto_puerta1,imagen_puerta1,destino1,texto_puerta2,imagen_puerta2,destino2,texto_puerta3,imagen_puerta3,destino3,puntos,vidas,objeto,requiere,sonido,sonido_transicion,sonido_puerta1,sonido_puerta2,sonido_puerta3
+1,inicio,Las tres puertas,Elige con cuidado una puerta,imagenstartgame.jpg,Puerta 1,puerta1.jpg,2,Puerta 2,puerta2.jpg,3,Puerta 3,puerta3.avif,4,0,3,,,,,,,
+2,tesoro,¡Trampa!,Un antiguo obelisco guardaba un tesoro,obeslicopuerta1.jpg,,,,,,,,,,100,0,,,,,,,
+3,muerte,¡Espiaste!,Espiaste a Capiberto en su sesion de fotos!,imagenpuerta2.jpg,,,,,,,,,,-50,-3,,,,,,,
+4,sala,¡Suertud@!,No moriste fácil. Escoge tu final,,Puerta 4,puerta4.avif,5,Puerta 5,puerta5.avif,6,,,,0,0,antorcha,,,,,,
+5,muerte,¡Que mala suerte!,Alguien te estaba esperando al otro lado,imagen1puerta4.jpg,,,,,,,,,,-100,-3,,,,,,,
+6,salida,¡La salida!,Has escapado ileso del laberinto,imagen2puerta5.jpg,,,,,,,,,,500,0,,,win.mp3,,,,
